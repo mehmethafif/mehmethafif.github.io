@@ -1,0 +1,32 @@
+title: "Mehmet Hafif"
+author: "Mehmet Hafif"
+description: "My Personal Blog"
+more: "read more »"
+url: "https://mehmethafif.github.io/"
+baseurl: ""
+paginate: 4
+permalink: pretty
+excerpt_separator: "\n\n\n" # two blank lines
+
+style:
+  minimalist: false
+  dark: false
+
+navigation:
+  - index.html
+  - categories.html
+  - about.md
+
+comments:
+  disqus: "disqus-contrast"
+#  isso: "comments.mysite.org"
+
+links: # see http://fontawesome.io/icons/#brand for all possible icons
+  - twitter: "https://twitter.com/mhafif98/"
+  - github: "https://github.com/mehmethafif"
+  - envelope: "mailto:mehmethafif98@gmail.com"
+  - instagram: "https://instagram.com/mhmtr34/"
+
+defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
+sass: {style: expanded}
+plugins: [jekyll-feed, jekyll-paginate]
