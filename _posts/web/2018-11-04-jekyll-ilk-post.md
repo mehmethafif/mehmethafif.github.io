@@ -1,6 +1,6 @@
 ---
 title: "Jekyll İle İlk Post"
-date: 2017-01-01 00:30:00
+date: 2018-11-04 05:31:00
 category: Web
 permalink: ":categories/ilk-post"
 
