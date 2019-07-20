@@ -1,0 +1,16 @@
+---
+label: Custom Front Matter Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: categories
+  label: categories
+- type: text
+  name: permalink
+  label: permalink
