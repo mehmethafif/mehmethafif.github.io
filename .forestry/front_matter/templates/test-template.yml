@@ -2,3 +2,5 @@
 label: Test Template
 hide_body: false
 fields: []
+pages:
+- _posts/test.md
