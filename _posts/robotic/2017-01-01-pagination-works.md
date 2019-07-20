@@ -1,9 +1,8 @@
 ---
 title: drones
-date: 2017-01-01T00:30:00.000+00:00
+date: 
 category:
 - Robotic
-- test
 permalink: ":categories/drones"
 
 ---
